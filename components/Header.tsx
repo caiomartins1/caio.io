@@ -20,7 +20,7 @@ export default function Header() {
             layout="responsive"
             width={144}
             height={144}
-            src="https://github.com/caiomartins1/caio.io/images/icon.png"
+            src="https://caiomartins1.github.io/caio.io/images/icon.png"
             className="rounded-full"
             alt="Profile Picture"
           />
