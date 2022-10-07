@@ -20,7 +20,7 @@ const Home: NextPage = () => {
               layout="responsive"
               width={144}
               height={144}
-              src="caio.io/images/profile.jpeg"
+              src="https://github.com/caiomartins1/caio.io/images/profile.jpeg"
               className="rounded-full"
               alt="Profile Picture"
             />
